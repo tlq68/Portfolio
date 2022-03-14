@@ -12,11 +12,19 @@ nav {
   background-color: var(--black-color);
 }
 
-.navbar-brand {
+.navbar-brand, #spotlight-link {
   color: var(--light-red-color);
 }
 
+.navbar-brand:hover, #spotlight-link:hover {
+  color: var(--dark-red-color);
+}
+
 .nav-link {
+  color: var(--dark-red-color);
+}
+
+.nav-link:hover, .nav-link:active, .nav-link:focus {
   color: var(--light-red-color);
 }
 
