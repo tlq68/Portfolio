@@ -1,0 +1,40 @@
+:root {
+  --gray-color: #C4D6B0;
+  --blue-color: #477998;
+  --black-color: #291F1E;
+  --light-red-color: #F64740;
+  --dark-red-color: #A3333D;
+}
+
+nav {
+  position: absolute;
+  top: 0;
+  background-color: var(--black-color);
+}
+
+.navbar-brand {
+  color: var(--light-red-color);
+}
+
+.nav-link {
+  color: var(--light-red-color);
+}
+
+#welcome-section {
+  height: 100vh;
+  background-color: var(--blue-color);
+}
+
+#projects {
+  background-color: var(--gray-color)
+}
+
+footer {
+  background-color: var(--black-color);
+}
+
+@media (max-width: 300px) {
+  body {
+    color: red;
+  }
+}
