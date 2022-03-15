@@ -20,11 +20,11 @@ nav {
   color: var(--dark-red-color);
 }
 
-.nav-link {
+.nav-link, .nav-link:focus {
   color: var(--dark-red-color);
 }
 
-.nav-link:hover, .nav-link:active, .nav-link:focus {
+.nav-link:hover, .nav-link:active {
   color: var(--light-red-color);
 }
 
