@@ -1,6 +1,6 @@
 # Portfolio
 
-This Portfolio is meant to outline some of my achievements as a webdeveloper. I come from a teaching background, but I have a passion for learning new things and I am driven by my desire to combine teaching and technology. This webpage will demonstrate some of my technical skills, but I emplore you to reach out to learn what else I can do. [LinkedIn Profile](www.linkedin.com/in/trevor-lister)
+This Portfolio is meant to outline some of my achievements as a webdeveloper. I come from a teaching background, but I have a passion for learning new things and I am driven by my desire to combine teaching and technology. This webpage will demonstrate some of my technical skills, but I emplore you to reach out to learn what else I can do. [LinkedIn Profile](https://www.linkedin.com/in/trevor-lister)
 
 ## Initial Setup
 
