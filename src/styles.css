@@ -46,11 +46,22 @@ nav {
 #welcome-section {
   height: 100vh;
   background-color: var(--blue-color);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #projects {
-  background-color: var(--gray-color)
+  background-color: var(--gray-color);
+  padding: 25px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
+
 
 footer {
   background-color: var(--black-color);
