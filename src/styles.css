@@ -12,6 +12,10 @@ nav {
   background-color: var(--black-color);
 }
 
+a {
+  text-decoration: none;
+}
+
 .navbar-brand, #spotlight-link {
   color: var(--light-red-color);
 }
@@ -55,6 +59,7 @@ nav {
 #projects {
   background-color: var(--gray-color);
   padding: 25px;
+  min-height: 100vh;
 
   display: flex;
   flex-direction: column;
@@ -62,6 +67,18 @@ nav {
   align-items: center;
 }
 
+.spotlight-container, .spotlight-container > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.spotlight-container > div {
+  font-size: 5rem;
+  background-color: var(--black-color);
+  width: 60vw;
+  height: 60vh;
+}
 
 footer {
   background-color: var(--black-color);

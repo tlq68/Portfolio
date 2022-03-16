@@ -12,5 +12,13 @@ After creating the starging skeleton, I used a Bootstrap Navbar boilerplate and 
 
 ## Welcome Section
 
+The height was set to the viewport and the content was centered. Later, the plan is to replace this section with a jumbotron-like feature.
+
+## Projects Section
+
+The height was set to the viewport and part of the content was centered. I added a spotlight section to be the centerpiece of the portfolio. 
+
+
+
 
 
