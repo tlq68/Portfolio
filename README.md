@@ -18,7 +18,7 @@ The height was set to the viewport and the content was centered. Later, the plan
 
 The height was set to the viewport and part of the content was centered. I added a spotlight section to be the centerpiece of the portfolio. 
 
-
+The individual project tiles were aligned and given larger dimensions using Bootstrap.
 
 
 

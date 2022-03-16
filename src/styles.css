@@ -76,8 +76,27 @@ a {
 .spotlight-container > div {
   font-size: 5rem;
   background-color: var(--black-color);
-  width: 60vw;
-  height: 60vh;
+  width: 66vw;
+  height: 66vh;
+}
+
+.projects-grid {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.project-tile-container > div {
+  background-color: var(--light-red-color);
+  color: var(--gray-color);
+  width: 150px;
+  height: 150px;
+
+  margin: 30px 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 footer {
