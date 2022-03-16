@@ -6,6 +6,7 @@
   --dark-red-color: #A3333D;
 }
 
+/*********** NAVBAR ***********/
 nav {
   position: absolute;
   top: 0;
@@ -47,6 +48,10 @@ a {
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 
+/*********** END OF NAVBAR ***********/
+
+/*********** WELCOME SECTION ***********/
+
 #welcome-section {
   height: 100vh;
   background-color: var(--blue-color);
@@ -56,9 +61,12 @@ a {
   align-items: center;
 }
 
+/*********** END OF WELCOME SECTION ***********/
+
+/*********** PROJECTS SECTION ***********/
+
 #projects {
   background-color: var(--gray-color);
-  padding: 25px;
   min-height: 100vh;
 
   display: flex;
@@ -76,17 +84,17 @@ a {
 .spotlight-container > div {
   font-size: 5rem;
   background-color: var(--black-color);
-  width: 66vw;
+  width: 80vw;
   height: 66vh;
 }
 
 .projects-grid {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
 }
 
-.project-tile-container > div {
+.project-tile-container > div{
   background-color: var(--light-red-color);
   color: var(--gray-color);
   width: 150px;
@@ -99,9 +107,21 @@ a {
   align-items: center;
 }
 
+.project-tile-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*********** END OF PROJECTS SECTION ***********/
+
+/*********** FOOTER SECTION ***********/
+
 footer {
   background-color: var(--black-color);
 }
+
+/*********** END OF FOOTER SECTION ***********/
 
 @media (max-width: 300px) {
   body {
