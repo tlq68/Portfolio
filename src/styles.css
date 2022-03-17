@@ -119,6 +119,29 @@ a {
 
 footer {
   background-color: var(--black-color);
+  min-height: 80vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-message {
+  color: white;
+
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+.socials-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-social {
+  color: white;
 }
 
 /*********** END OF FOOTER SECTION ***********/

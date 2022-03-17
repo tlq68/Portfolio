@@ -20,5 +20,7 @@ The height was set to the viewport and part of the content was centered. I added
 
 The individual project tiles were aligned and given larger dimensions using Bootstrap.
 
+## Footer Section
+
 
 
