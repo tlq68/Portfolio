@@ -128,6 +128,8 @@ footer {
 
 .footer-message {
   color: white;
+  font-size: 2.5rem;
+  margin: 30px auto;
 
   display: flex;
   justify-content: center;
@@ -141,7 +143,25 @@ footer {
 }
 
 .btn-social {
+  font-size: 1.2rem;
   color: white;
+
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+}
+
+a > span.fa {
+  border: none !important;
+  display: flex;
+  align-items: center;
+  margin: 5px;
+}
+
+a.btn-social {
+  margin: 20px;
+  padding: 10px 80px;
+
 }
 
 /*********** END OF FOOTER SECTION ***********/
