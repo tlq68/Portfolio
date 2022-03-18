@@ -24,3 +24,4 @@ The individual project tiles were aligned and given larger dimensions using Boot
 
 I increased the footer size to make it more visible. Then I added social buttons for people to reach out and collaborate with me. 
 
+The social buttons were given a responsive design with Bootstrap.
