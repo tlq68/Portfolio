@@ -22,5 +22,5 @@ The individual project tiles were aligned and given larger dimensions using Boot
 
 ## Footer Section
 
-
+I increased the footer size to make it more visible. Then I added social buttons for people to reach out and collaborate with me. 
 
